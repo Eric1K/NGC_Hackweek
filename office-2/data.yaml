@@ -1,0 +1,35 @@
+names:
+- Human hair
+- book -group-
+- bookcase
+- building
+- camera
+- car
+- chair
+- clothing
+- desk
+- drink
+- holding
+- human arm
+- human hand
+- human leg
+- ladder
+- mirror
+- musical keyboard
+- person
+- piano
+- shelf
+- tablet computer
+- watch
+- wheel
+- woman
+nc: 24
+roboflow:
+  license: CC BY 4.0
+  project: office-jaiku
+  url: https://universe.roboflow.com/ngc-gizra/office-jaiku/dataset/2
+  version: 2
+  workspace: ngc-gizra
+test: ../test/images
+train: office-2/train/images
+val: office-2/valid/images
